@@ -1,0 +1,25 @@
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Machine Learning.}}{2}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Quy trình huấn luyện }}{4}{figure.caption.15}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Toàn bộ luồng CNN để xử lý hình ảnh đầu vào và phân loại các đối tượng dựa trên giá trị.}}{5}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Mô hình cấu trúc của mạng CNN.}}{6}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Convolutional Layer.}}{7}{figure.caption.24}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Bộ dữ liệu mask và emotion.}}{15}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Confusion matrix.}}{16}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Accuracy.}}{16}{figure.caption.42}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Precision.}}{17}{figure.caption.43}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Recall.}}{17}{figure.caption.44}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces F1-Score.}}{17}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Model Accuracy và Model Loss.}}{25}{figure.caption.178}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Đánh giá hiệu suất mô hình.}}{25}{figure.caption.179}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Confusion Matrix.}}{25}{figure.caption.180}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Model Accuracy và Model Loss.}}{26}{figure.caption.182}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Đánh giá hiệu suất mô hình.}}{26}{figure.caption.183}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Confusion Matrix.}}{27}{figure.caption.184}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Demo kết quả chạy webcam1.}}{28}{figure.caption.246}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Demo kết quả chạy webcam2.}}{29}{figure.caption.247}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Demo kết quả chạy webcam3.}}{29}{figure.caption.248}%
+\addvspace {10\p@ }

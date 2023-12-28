@@ -1,0 +1,18 @@
+\chapter*{KẾT LUẬN}
+\addcontentsline{toc}{chapter}{KẾT LUẬN}
+
+\label{Chapter5}
+
+Bài viết này mang đến cho bạn đọc một vài giải pháp trong bài toán nhận diện hành động của con người trong video.
+
+Kết quả thực nghiệm cho thấy mô hình nhận dạng sử dụng các thuật toán phân loại phổ biến và tập đặc trưng của chúng tôi cho kết quả rất tốt với các hoạt động thường ngày của con người. Việc đơn giản hoá bộ đặc trưng và lựa chọn kích thước cửa sổ tối ưu từ việc phân tích đặc điểm dữ liệu có thể làm cải thiện tốc độ nhận dạng mà vẫn đảmbảo độ chính xác. Ngoài ra, việc lựa chọn một thuật toán phân loại thích hợp cũng ảnh hưởng rõ rệt tới kết quả nhận dạng. Đối với mô hình thử nghiệm của chúng tôi, thuật toán CNN giúp cải thiện độ chính xác hơn so với DecisionTree, Gradient Boosted Tree, SVM, RF, KNN. Tuy nhiên,hành vi của con người không chỉ là tự nhiên và tự phát,mà con người có thể thực hiện một số hoạt động cùng mộtlúc, hoặc thậm chí thực hiện một số hoạt động không liên quan. Đây cũng là thách thức lớn trong bài toán nhận dạng hành động với thời gian thực. Trong tương lai, chúng tôi tiếp tục phát triển hệ thống của mình để có thể dự đoán và xác định các hoạt động đồng thời, hỗ trợ ứng dụng cho các hoàn cảnh sử dụng phức tạp hơn, hướng tới các ứng dụng không chỉ gắn với con người 
+
+Có rất nhiều thứ có thể cải tiến để có được kết quả tốt hơn mà bạn có thể thử nếu áp dụng vào bài toán thực tế:
+\begin{itemize}
+    \item Tăng FPS để có thể chạy được realtime: Tối ưu hóa model (pruning, quantization), loại bỏ bớt frame khi nhận diện, sử dụng multi-threading, ...
+    \item Sử dụng các Pose Estimation model khác như AlphaPose, OpenPose, ...
+\end{itemize}
+
+
+
+
